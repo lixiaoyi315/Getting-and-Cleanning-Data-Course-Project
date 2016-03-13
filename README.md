@@ -8,9 +8,7 @@ This README seeks to accomplish two goals:
 
 ## Explanation of the run_analysis.R Script
 
-## Evaluation Phase Questions and Statements (from https://class.coursera.org/getdata-010/human_grading/view/courses/973497/assessments/3/submissions):
-
-#### Has the student submitted a tidy data set? Either a wide or a long form of the data is acceptable if it meets the tidy data principles of week 1 (Each variable you measure should be in one column, Each different observation of that variable should be in a different row).
+## Has the student submitted a tidy data set? Either a wide or a long form of the data is acceptable if it meets the tidy data principles of week 1 (Each variable you measure should be in one column, Each different observation of that variable should be in a different row).
 
 In a tidy data set:
 
@@ -22,20 +20,20 @@ In a tidy data set:
  Each row corresponds to the measurement of a specific subject-activity combination.
  The table itself corresponds to observations of subjects performing activities.
  
- #### Did the student submit a Github repo with the required scripts?
+ ## Did the student submit a Github repo with the required scripts?
  
  The repository https://github.com/todddeluca/coursera-getdata-project contains the following:
  
  run_analysis.R script that download and processes the raw data into a tidy data set.
  README.md (this file), which describes the run_analysis.R file.
  CodeBook.md, which describes the variables of the tidy data set.
- #### Was code book submitted to GitHub that modifies and updates the codebooks available to you with the data to indicate all the variables and summaries you calculated, along with units, and any other relevant information?
+ ## Was code book submitted to GitHub that modifies and updates the codebooks available to you with the data to indicate all the variables and summaries you calculated, along with units, and any other relevant information?
  
  Please see CodeBook.md in the submitted repository.
  
- #### I was able to follow the README in the directory that explained what the analysis files did.
+ ## I was able to follow the README in the directory that explained what the analysis files did.
  
- #### As far as you can determine, does it appear that the work submitted for this project is the work of the student who submitted it? 
+ ## As far as you can determine, does it appear that the work submitted for this project is the work of the student who submitted it? 
  
  #### Please use the space below to provide constructive feedback to the student who submitted the work. Point out the submission's strengths as well as areas in need of improvement. You may also use this space to explain your grading decisions.
  
