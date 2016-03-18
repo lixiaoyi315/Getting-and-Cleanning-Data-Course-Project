@@ -89,4 +89,4 @@ NewtidyData$featAxis <- factor(x %*% y, labels=c(NA, "X", "Y", "Z"))
 
 NewtidyData<- NewtidyData[, list(count = .N, average = mean(value)), by=key(NewtidyData)]
 
-write.table(NewtidyData, "Newtidydataset.txt")
+write.table(NewtidyData, "tidydataset.txt")
